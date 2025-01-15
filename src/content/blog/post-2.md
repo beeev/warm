@@ -1,70 +1,52 @@
 ---
-title: Building an Impressive Front-End Developer Portfolio
-excerpt: In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career.
-publishDate: 'October 5 2023'
+title: Proof + Passion in investor relations
+excerpt: When communicating with investors, you need to balance 'costed' messaging with 'costless' messaging...
+
+publishDate: 'Jan 14 2025'
+isFeatured: true
 tags:
-  - Web
-  - Web development
-seo:
-  image:
-    src: '/post-2.jpg'
-    alt: Half open laptop on a desk
+  - B2I
 ---
 
-![Half open laptop on a desk](/post-2.jpg)
+Working on investor relations content can be a challenge, partly because they are such an illusive bunch and it can be hard to get any solid research on this audience. In the past I've used [Brunswick's Digital Investor Survey](https://www.brunswickgroup.com/perspectives/digital-investor-survey/2023/) - but usually I'm reliant on my client to steer me in the right direction. That's why I was very interested to see this new report titled _[Business-to-Investor Marketing:The Interplay of Costly and Costless Signals](https://journals.sagepub.com/doi/10.1177/00222429241288464)_ in my RSS feed: I was genuinely excited when I flicked through it - can this finally offer a framework to assess my own Investor Relations communication?
 
-**Note:** This post was created using Chat GPT to demonstrate the features of the _[Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/)_.
+The language of their report takes a bit getting used to, but their main thrust is that you must carefully balance the 'costed' with the 'costless' and it is the interplay of these two things together that make for successful communication.
 
-In the competitive world of front-end development, a strong portfolio is your ticket to showcasing your skills, making a lasting impression on potential employers or clients, and advancing your career. Your portfolio is your digital business card, and it should be a reflection of your talent, creativity, and expertise. In this post, we'll walk you through the steps to create an impressive front-end developer portfolio that will help you stand out in the crowd.
+## First, some definitions:
 
-## 1. Showcase a Diverse Range of Projects
+**Costly Signals: The Foundation of Credibility**  
+Costly signals refer to tangible, resource-based evidence that reduces uncertainty for investors. These are the substantive elements that prove a business is viable and capable of delivering results. Examples include:
 
-Your portfolio should be a testament to your versatility. Include a variety of projects that demonstrate your skills in different areas of front-end development. Consider including projects like:
+• **Financial resources:** Strong balance sheets, growth metrics, or customer orders.
 
-- **Responsive Websites:** Showcase your ability to create websites that adapt seamlessly to various screen sizes and devices.
+• **Social resources:** Teams with proven track records or leadership credibility.
 
-- **Interactive Web Applications:** Feature web applications that engage users with dynamic features and functionalities.
+• **Intellectual resources:** Investments in R&D, patents, or partnerships with trusted institutions.
 
-- **E-commerce Websites:** If you've worked on e-commerce sites, include them to demonstrate your expertise in handling complex web development tasks.
+**Costless Signals: Amplifying the Message**
 
-- **Open Source Contributions:** Highlight your involvement in open-source projects or contributions to online coding communities.
+Costless signals, on the other hand, shape how investors perceive the business. They are stylistic or emotional elements that help communicate the costly signals effectively. Two critical costless signals are:
 
-## 2. Highlight Your Coding Skills
+• **Passion:** Enthusiasm, energy, and conviction that show belief in the company’s vision.
 
-Your portfolio should provide a clear view of your coding proficiency. Consider the following:
+• **Concreteness:** Clear, vivid communication that makes achievements feel real. This involves providing evidence—numbers, milestones, and examples—in language that is relatable and easy to grasp. Concreteness doesn’t create new achievements but ensures existing ones are communicated in a way that inspires confidence.
 
-- **Clean and Organized Code:** Present your code in a clean and well-organized manner. Use proper indentation, comments, and coding standards.
+Here is a diagram explaining from their model, illustrating their main theory, that _investor acceptance occurs when both the costless signals and the costly are in balance._
 
-- **Use of Version Control:** Showcase your use of version control systems like Git and GitHub to demonstrate your collaboration and code management skills.
+![image](https://res.craft.do/user/full/b5114c02-4682-1c59-878b-14d09bd3e799/doc/0C4B76EB-AF27-445A-B3EB-CDDE91841CF7/6BC0D712-05AF-4484-BE40-66C145E29F68_2/cbBLIqJOlIoFxQpsw83LXoT8xHWrc3rxNpNQQtYByWUz/Screenshot%202025-01-13%20at%2009.30.26.png)
 
-- **Code Samples:** Include snippets of code from your projects to give visitors an insight into your coding style and problem-solving abilities.
+**Why Balance Matters**
 
-## 3. Emphasize Responsive Design
+The research shows that investor scepticism arises when these two signals are out of balance:
 
-As a front-end developer, responsive design is paramount. Ensure that your portfolio itself is a shining example of responsive design. It should look and function flawlessly on a variety of devices, including desktops, tablets, and smartphones.
+• Over-relying on **costless signals** (e.g., passion without proof) will feel like hollow hype.
 
-## 4. User Experience (UX) Matters
+• Overloading on **costly signals** (e.g., data without emotion) can fail to connect on a human level, leaving investors unmotivated.
 
-Front-end development is not just about writing code; it's about creating a great user experience. Explain your thought process behind the user interface (UI) and UX decisions you made in your projects. Discuss how you optimized performance and accessibility.
+In short, the paper shows that **investor relations rely on a balanced blend of hard evidence and engaging storytelling**. If you can’t boast hefty resources yet, share precise details of any successes you _do_ have; if you’re already on solid ground, fan the flames of ambition with strong, future-focused narratives. By recognising where you stand on the “costly vs. costless” spectrum, you can shape messages that meet investors exactly where _they_ need reassurance.
 
-## 5. Document Your Projects
+## The framework
 
-Accompany each project with a detailed description. Explain the project's goals, your role in it, the technologies and tools you used, and any challenges you overcame. This documentation provides context and depth to your work.
+To wrap it all up, I've botched together this 'Business-to-Investor Canvas, hopefully a simple tool that captures the essence of this new research. This might be a little bit of a cheat-sheet in crafting narratives that are more likely to resonate with the investor community. This is something that I'm going to try out in the following months:
 
-## 6. Regularly Update Your Portfolio
-
-A stagnant portfolio can give the impression of inactivity or lack of progress. Regularly update your portfolio with your latest work and projects. Remove outdated or less impressive work to keep your portfolio relevant and impactful.
-
-## 7. Test and Optimize Load Times
-
-Slow-loading websites can turn visitors away. Ensure your portfolio loads quickly by optimizing images and using proper techniques to minimize load times.
-
-## 8. Seek Feedback
-
-Before finalizing your portfolio, seek feedback from peers, mentors, or online communities. Constructive criticism can help you refine your portfolio and make it even more impressive.
-
-## 9. Personalize Your Portfolio
-
-Your portfolio is not just about your work; it's also about you. Add a personal touch by including an **"About Me"** section that tells your story, your passions, and what makes you unique as a front-end developer.
-
-Remember, your front-end developer portfolio is an ongoing project. Keep refining it, stay up-to-date with the latest trends, and let it evolve as your skills and experience grow. An impressive portfolio not only serves as a testament to your abilities but also opens doors to exciting opportunities in the world of front-end development.
+![The Business to Investor Canvas](/Business-To-Investor-Canvas.png)

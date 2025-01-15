@@ -9,7 +9,7 @@
 @layer base {
     :root {
         --color-text-main: 23 23 23; /* #171717 */
-        --color-bg-main: 242 241 236; /* #F2F1EC */
+        --color-bg-main: 238 231 225; /* #F2F1EC */
         --color-bg-muted: 234 233 225; /* #EAE9E1 */
         --color-border-main: 23 23 23; /* #171717 */
     }
@@ -19,6 +19,47 @@
         --color-bg-muted: 36 36 36; /* #242424 */
         --color-border-main: 242 241 236; /* #F2F1EC */
     }
+
+    .blog-title {
+        color: #f0e7e0 !important; /* Replace this with your desired colour */
+    }
+
+    .light-text {
+        color: #f0e7e0 !important; /* Replace this with your desired colour */
+    }
+
+    body {
+        /* Layer 1: Gradient (no-repeat) */
+        /* Layer 2: Solid color (repeats to cover the rest of the page) */
+        background:
+            linear-gradient(to bottom, #e09296 0%, #f0e7e0 70%, #f0e7e0 100%) no-repeat,
+            #f0e7e0;
+        
+        /* Define sizes for each layer */
+        background-size: 100% 100vh, 100% 100%;
+        
+        /* Prevent repetition for both layers */
+        background-repeat: no-repeat, no-repeat;
+        
+        /* Ensure the gradient stays fixed if desired */
+        background-attachment: scroll, scroll;
+        
+        margin: 0; /* Removes default margins */
+        
+    }
+
+    .tk-soleil { font-family: "soleil",sans-serif !important; }
+
+    .tk-soleil-logo { 
+        font-family: "soleil",sans-serif !important;
+        font-style: italic !important; /* Add italic style */
+        font-weight: 400 !important;   /* Ensure correct weight (e.g., 400 for Book) */ 
+    }
+
+    .tiktok-embed {
+        background-color: #e09296;
+    }
+    
 
     /* Cyan */
     /*

@@ -1,0 +1,60 @@
+---
+// src/components/TopAlbums.astro
+
+import { useState, useEffect } from 'react';
+
+const TopAlbums = () => {
+    const [albums, setAlbums] = useState([]);
+    const [error, setError] = useState(null);
+    const [loading, setLoading] = useState(true);
+
+    useEffect(() => {
+        fetch('/api/top-albums')
+            .then((res) => res.json())
+            .then((data) => {
+                if (data.topalbums && data.topalbums.album) {
+                    setAlbums(data.topalbums.album);
+                } else {
+                    setError('No top albums data available.');
+                }
+                setLoading(false);
+            })
+            .catch((err) => {
+                console.error(err);
+                setError('Failed to fetch top albums.');
+                setLoading(false);
+            });
+    }, []);
+
+    if (loading) {
+        return <p>Loading top albums...</p>;
+    }
+
+    if (error) {
+        return <p>{error}</p>;
+    }
+
+    return (
+        <table class="albums-table">
+            <thead>
+                <tr>
+                    <th>Album</th>
+                    <th>Artist</th>
+                    <th>Play Count</th>
+                </tr>
+            </thead>
+            <tbody>
+                {albums.map((album) => (
+                    <tr key={album.name}>
+                        <td data-label="Album">{album.name}</td>
+                        <td data-label="Artist">{album.artist.name}</td>
+                        <td data-label="Play Count">{album.playcount}</td>
+                    </tr>
+                ))}
+            </tbody>
+        </table>
+    );
+};
+
+export default TopAlbums;
+---
