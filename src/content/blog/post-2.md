@@ -8,7 +8,7 @@ tags:
   - B2I
 ---
 
-Working on investor relations content can be a challenge, partly because they are such an illusive bunch and it can be hard to get any solid research on this audience. In the past I've used [Brunswick's Digital Investor Survey](https://www.brunswickgroup.com/perspectives/digital-investor-survey/2023/) - but usually I'm reliant on my client to steer me in the right direction. That's why I was very interested to see this new report titled _[Business-to-Investor Marketing:The Interplay of Costly and Costless Signals](https://journals.sagepub.com/doi/10.1177/00222429241288464)_ in my RSS feed: I was genuinely excited when I flicked through it - can this finally offer a framework to assess my own Investor Relations communication?
+Working on investor relations content can be a challenge, partly because they are quite an illusive, exclusive bunch and it can be hard to find any solid research on them. In the past I've used [Brunswick's Digital Investor Survey](https://www.brunswickgroup.com/perspectives/digital-investor-survey/2023/) - but usually I'm reliant on my client to steer me in the right direction. That's why I was very interested to see this new report titled _[Business-to-Investor Marketing:The Interplay of Costly and Costless Signals](https://journals.sagepub.com/doi/10.1177/00222429241288464)_ in my RSS feed: I was genuinely excited when I flicked through it - can this finally offer a framework to assess my own Investor Relations communication?
 
 The language of their report takes a bit getting used to, but their main thrust is that you must carefully balance the 'costed' with the 'costless' and it is the interplay of these two things together that make for successful communication.
 
@@ -30,6 +30,10 @@ Costless signals, on the other hand, shape how investors perceive the business. 
 • **Passion:** Enthusiasm, energy, and conviction that show belief in the company’s vision.
 
 • **Concreteness:** Clear, vivid communication that makes achievements feel real. This involves providing evidence—numbers, milestones, and examples—in language that is relatable and easy to grasp. Concreteness doesn’t create new achievements but ensures existing ones are communicated in a way that inspires confidence.
+
+In my view, ‘Concreteness’ involves using language that vividly illustrates the organisation’s opportunities. A good example of concreteness in action is found in OpenAI’s recent _[Economic Blueprint](https://openai.com/global-affairs/openais-economic-blueprint/)_, where they draw parallels between the level of investment and policy changes needed for America’s adoption of the automobile and those required for the widespread adoption of Artificial Intelligence. By making these comparisons, OpenAI effectively brings the potential and impact of AI to life for their audience, while easing concerns about just how difficult, or just how expensive it might be. We've done it all before, lads. Here's the quote:
+
+> "America took a very different approach, and the country became the heart of the world’s auto industry, mass-producing affordable cars with the help of local, state and federal officials who saw the industry’s potential. Public safety concerns over horse-drawn vehicles on crowded city streets prompted local officials to support the switch to cars—not make cars yield to horses. The country’s size prompted states to invest in better roads. And the federal government cleared the way to scale transport by car with a national—rather than state-by-state—highway system."
 
 Here is a diagram explaining from their model, illustrating their main theory, that _investor acceptance occurs when both the costless signals and the costly are in balance._
 
