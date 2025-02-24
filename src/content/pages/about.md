@@ -10,7 +10,7 @@ seo:
 
 ![Alt text for image](/about.png)
 
-My name is Bernard Valentine, I live in Gothenburg and work as a Digital Strategist at an agency called [Off The Wall](https://otw.se)
+My name is Bernard Valentine, I live in Gothenburg and work as a Digital Strategist at an agency called [Off The Wall](https://otw.se). You can contact me: bernard-at-bernardvalentine.com
 
 Here's where you can find me on the web:
 
